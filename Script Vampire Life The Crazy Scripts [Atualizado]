@@ -20,7 +20,7 @@ local PlayerGui = Player:WaitForChild("PlayerGui")
 local ConfigFileName = "CrazyHubConfig.json"
 
 local MEU_SCRIPT_LOADSTRING = [[
-loadstring(game:HttpGet("https://pastebin.com/raw/jQtgaHgw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheCrazyScripts/B/refs/heads/main/Script%20Vampire%20Life%20The%20Crazy%20Scripts%20%5BAtualizado%5D"))()
 ]]
 
 local ConfigLoaded = {}
